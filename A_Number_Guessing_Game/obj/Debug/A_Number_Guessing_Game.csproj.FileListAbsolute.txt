@@ -1,0 +1,8 @@
+D:\C#folder\HOMEWORK1.2.2023\A_Number_Guessing_Game\obj\Debug\A_Number_Guessing_Game.csproj.AssemblyReference.cache
+D:\C#folder\HOMEWORK1.2.2023\A_Number_Guessing_Game\obj\Debug\A_Number_Guessing_Game.csproj.SuggestedBindingRedirects.cache
+D:\C#folder\HOMEWORK1.2.2023\A_Number_Guessing_Game\obj\Debug\A_Number_Guessing_Game.csproj.CoreCompileInputs.cache
+D:\C#folder\HOMEWORK1.2.2023\A_Number_Guessing_Game\bin\Debug\A_Number_Guessing_Game.exe.config
+D:\C#folder\HOMEWORK1.2.2023\A_Number_Guessing_Game\bin\Debug\A_Number_Guessing_Game.exe
+D:\C#folder\HOMEWORK1.2.2023\A_Number_Guessing_Game\bin\Debug\A_Number_Guessing_Game.pdb
+D:\C#folder\HOMEWORK1.2.2023\A_Number_Guessing_Game\obj\Debug\A_Number_Guessing_Game.exe
+D:\C#folder\HOMEWORK1.2.2023\A_Number_Guessing_Game\obj\Debug\A_Number_Guessing_Game.pdb
