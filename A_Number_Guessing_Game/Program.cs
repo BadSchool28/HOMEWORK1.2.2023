@@ -18,15 +18,16 @@ namespace A_Number_Guessing_Game
             Random rd= new Random();
             int luckynumber = rd.Next(1,100);
             Console.OutputEncoding= Encoding.UTF8;
+            Console.WriteLine("CHƯƠNG TRÌNH A NUMBER GUESSING GAME");
             Console.WriteLine("luckynumber: {0} ",luckynumber);
             //Console.WriteLine("Mời bạn nhập số: ");
             nb = Convert.ToInt32(Console.ReadLine());
             
             if (nb < 1 || nb > 100)
             {
-                Console.WriteLine("Nhập lại n (1<n100)");
+                Console.WriteLine("Nhập lại n (1<n<100)");
             }
-            else if (nb != luckynumber) 
+            if (nb != luckynumber) 
             {
                 for (int i = 7; i >= dead ; i--)
                 {
@@ -34,7 +35,7 @@ namespace A_Number_Guessing_Game
                     int n = Convert.ToInt32(Console.ReadLine());
                     if (n==luckynumber)
                     {
-                        Console.WriteLine($"Bạn đã đoán đúng luckynumber {luckynumber}");
+                        Console.WriteLine($"Bạn đã đoán đúng luckynumber là {luckynumber}");
                         break;
                     }
                     else if (n < luckynumber)

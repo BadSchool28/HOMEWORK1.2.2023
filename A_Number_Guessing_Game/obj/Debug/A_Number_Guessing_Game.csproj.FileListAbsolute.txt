@@ -6,3 +6,11 @@ D:\C#folder\HOMEWORK1.2.2023\A_Number_Guessing_Game\bin\Debug\A_Number_Guessing_
 D:\C#folder\HOMEWORK1.2.2023\A_Number_Guessing_Game\bin\Debug\A_Number_Guessing_Game.pdb
 D:\C#folder\HOMEWORK1.2.2023\A_Number_Guessing_Game\obj\Debug\A_Number_Guessing_Game.exe
 D:\C#folder\HOMEWORK1.2.2023\A_Number_Guessing_Game\obj\Debug\A_Number_Guessing_Game.pdb
+C:\Users\QuangTruong\Documents\GitHub\HOMEWORK\A_Number_Guessing_Game\bin\Debug\A_Number_Guessing_Game.exe.config
+C:\Users\QuangTruong\Documents\GitHub\HOMEWORK\A_Number_Guessing_Game\bin\Debug\A_Number_Guessing_Game.exe
+C:\Users\QuangTruong\Documents\GitHub\HOMEWORK\A_Number_Guessing_Game\bin\Debug\A_Number_Guessing_Game.pdb
+C:\Users\QuangTruong\Documents\GitHub\HOMEWORK\A_Number_Guessing_Game\obj\Debug\A_Number_Guessing_Game.csproj.AssemblyReference.cache
+C:\Users\QuangTruong\Documents\GitHub\HOMEWORK\A_Number_Guessing_Game\obj\Debug\A_Number_Guessing_Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\QuangTruong\Documents\GitHub\HOMEWORK\A_Number_Guessing_Game\obj\Debug\A_Number_Guessing_Game.csproj.CoreCompileInputs.cache
+C:\Users\QuangTruong\Documents\GitHub\HOMEWORK\A_Number_Guessing_Game\obj\Debug\A_Number_Guessing_Game.exe
+C:\Users\QuangTruong\Documents\GitHub\HOMEWORK\A_Number_Guessing_Game\obj\Debug\A_Number_Guessing_Game.pdb
